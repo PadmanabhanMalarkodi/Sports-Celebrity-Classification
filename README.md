@@ -50,7 +50,7 @@ Check the dataset size, the distribution of an image and any potential data imba
 **Store the image**
 * Store the cropped image in a seperate folder.
 
-**Deleting the unwanted images**
+**Delete the unwanted images**
 * The processed image might still have some unwanted image, we are manually deleting them.
 
 ## 5. Feature Extraction (Optional):
