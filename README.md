@@ -5,8 +5,8 @@ Whether you're a sports enthusiast, a fan of a particular athlete, or just curio
 ## Introduction
 * Image classification refers to grouping the images based on similar features. It is a supervised learning approach in which you are given a labeled dataset.
 * Classifying cat and dog images is a common computer vision project, and you can approach it using various machine learning algorithms.
- 
-* Here's a step-by-step guide to help you get started on this project:
+
+  ### Here's a step-by-step guide to help you get started on this project:
 
 ## 1. Set Up Your Environment:
 * Install Python and necessary libraries, such as NumPy, OpenCV, Python Wavelet Transform Module, Scikit-learn.
@@ -18,10 +18,10 @@ Whether you're a sports enthusiast, a fan of a particular athlete, or just curio
 ### Once you have your dataset, it's essential to understand its characteristics and structure:
 
 **Load the Dataset** 
-Use Python and libraries like OpenCV to load the dataset.
+* Use Python and libraries like OpenCV to load the dataset.
 
 **Explore the Data**
-Check the dataset size, the distribution of an image and any potential data imbalances. Visualization libraries like Matplotlib or Seaborn can help you create insightful graphs and plots.
+* Check the dataset size, the distribution of an image and any potential data imbalances. Visualization libraries like Matplotlib or Seaborn can help you create insightful graphs and plots.
 
 ## 4. Data Preprocessing:
 ### Prepare your data for training by performing the following tasks:
